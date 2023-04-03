@@ -15,4 +15,6 @@ jours entre le 23-05-22 et le 19-06-22.
 - Commentaires (avis)
 - Journaux de bord des employés
 
+Durée du projet : 3 jours
+
 Cliquez sur ce lien pour voir le tableau de bord Green Bikes Tours : https://public.tableau.com/app/profile/oy4372/viz/GreenBikesTours/TableaudebordGreenBikesTours__1
