@@ -1,0 +1,24 @@
+employee_id,gender,date_of_birth,job,joining_date,day_tour_trained,night_tour_trained,versailles_trained,seniority (has already worked here),name
+34-0035381,m,1987-06-24,Office Manager,2017-05-24,y,y,y,y,Tom Burden
+50-2207707,f,1981-05-15,Office Manager,2017-06-17,y,y,y,y,Alice Richards
+12-3003928,m,1990-01-02,Senior Guide,2019-07-22,y,y,y,y,Shaun McLaughlin
+13-0214740,m,1995-01-24,Senior Guide,2019-09-25,y,y,y,y,Tim Chang
+53-8952948,m,2000-08-01,Guide,2020-01-04,y,y,y,y,Tarik Patel
+61-9022510,f,1995-07-30,Guide,2020-02-10,y,y,y,n,Annie Spayne
+82-4746874,m,1996-01-05,Senior Guide,2020-04-02,y,y,y,y,Eric Winterbourne
+75-0269501,m,1999-11-07,Guide,2020-08-30,y,y,y,y,Luke Thomas
+22-0191141,f,1994-12-13,Senior Guide,2020-12-02,y,y,y,y,Helen Smith
+11-9351390,m,2002-06-02,Guide,2021-01-04,y,y,n,n,Peter Comerford
+11-7101553,f,1987-02-17,Guide,2021-10-21,y,y,y,n,Michelle Turner
+60-3815509,f,1997-08-15,Guide,2021-11-29,y,y,y,n,Emily Ngo
+26-3559661,f,1991-09-17,Guide,2022-01-06,y,y,n,n,Aline Robert
+01-3339282,m,1991-09-18,Guide,2022-01-06,y,y,n,n,Henry Cumberdale
+21-6550197,f,1999-11-30,Guide,2022-01-06,y,y,n,n,Liliane Dubourblanc
+55-1433827,m,1981-02-12,Guide,2022-02-18,y,y,n,n,Ben Jonsen
+64-9856770,f,1997-01-30,Guide,2022-05-01,y,y,n,n,Laura Tobin
+60-8608095,f,1996-08-07,Guide,2022-05-13,y,y,n,n,Katherine Chiswell
+29-9644211,m,1990-07-11,Guide,2022-05-16,y,y,n,n,Andrew Nguyen
+39-6865023,f,1990-11-20,Guide,2022-05-16,y,y,n,n,Sally Kittman
+51-5531588,f,1989-05-17,Guide,2022-05-31,y,y,n,n,Frances Segrave
+58-1868935,m,1990-08-05,Guide,2022-05-31,y,y,n,n,Nicola Georgi
+52-4576356,m,1994-11-22,Guide,2022-12-05,y,y,n,n,Nolan Pendergast

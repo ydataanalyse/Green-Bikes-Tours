@@ -1,0 +1,325 @@
+name,duty,start_time,end_time,tour_date,tour_date1,cle,clock in,clock out,retard
+Tom Burden,Office Shift - M,16:00:00,19:30:00,23 05 2022,2022-05-23,2022-05-23-Tom Burden,15:55,19:15,5.0
+Tim Chang,Office Shift,17:00:00,19:30:00,23 05 2022,2022-05-23,2022-05-23-Tim Chang,16:45,19:15,15.0
+Ben Jonsen,Office Shift,17:30:00,19:30:00,23 05 2022,2022-05-23,2022-05-23-Ben Jonsen,17:25,19:00,5.0
+Laura Tobin,Guide 1,17:30:00,23:30:00,23 05 2022,2022-05-23,2022-05-23-Laura Tobin,17:30,23:15,0.0
+Emily Ngo,Guide 2,17:30:00,23:30:00,23 05 2022,2022-05-23,2022-05-23-Emily Ngo,17:31,23:30,-1.0
+David Chiswell	,Guide 3,17:30:00,23:30:00,23 05 2022,2022-05-23,2022-05-23-David Chiswell	,17:25,23:30,5.0
+Peter Comerford,Guide 4,17:30:00,23:30:00,23 05 2022,2022-05-23,2022-05-23-Peter Comerford,17:28,23:30,2.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,24 05 2022,2022-05-24,2022-05-24-Tom Burden,15:55,19:00,5.0
+Shaun Mclaughlin,Office Shift,17:00:00,19:30:00,24 05 2022,2022-05-24,2022-05-24-Shaun Mclaughlin,16:50,19:00,10.0
+David Chiswell,Office Shift,17:30:00,19:30:00,24 05 2022,2022-05-24,2022-05-24-David Chiswell,17:30,19:00,0.0
+Tarik Patel,Guide 1,17:30:00,23:30:00,24 05 2022,2022-05-24,2022-05-24-Tarik Patel,17:40,23:45,-10.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,25 05 2022,2022-05-25,2022-05-25-Alice Richards,15:50,19:15,10.0
+Eric Winterbourne,Office Shift,17:00:00,19:30:00,25 05 2022,2022-05-25,2022-05-25-Eric Winterbourne,17:00,19:15,0.0
+Nolan Pendergast,Guide 3,17:30:00,23:30:00,25 05 2022,2022-05-25,2022-05-25-Nolan Pendergast,17:30,18:45,0.0
+Ben Jonsen,Guide 1,17:30:00,23:30:00,25 05 2022,2022-05-25,2022-05-25-Ben Jonsen,17:25,23:20,5.0
+Michelle Turner,Guide 2,17:30:00,23:30:00,25 05 2022,2022-05-25,2022-05-25-Michelle Turner,17:35,23:20,-5.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,26 05 2022,2022-05-26,2022-05-26-Alice Richards,16:00,19:05,0.0
+Helen Smith,Office Shift,17:00:00,19:30:00,26 05 2022,2022-05-26,2022-05-26-Helen Smith,17:00,19:05,0.0
+Andrew Brewer,Guide 4,17:30:00,23:30:00,26 05 2022,2022-05-26,2022-05-26-Andrew Brewer,17:15,18:45,15.0
+Nolan Pendergast,Guide 1,17:30:00,23:30:00,26 05 2022,2022-05-26,2022-05-26-Nolan Pendergast,17:30,23:15,0.0
+Laura Tobin,Guide 2,17:30:00,23:30:00,26 05 2022,2022-05-26,2022-05-26-Laura Tobin,17:30,23:30,0.0
+Luke Thomas,Guide 3,17:30:00,23:30:00,26 05 2022,2022-05-26,2022-05-26-Luke Thomas,17:35,23:30,-5.0
+Tim Chang,Office Shift - M,17:00:00,19:30:00,27 05 2022,2022-05-27,2022-05-27-Tim Chang,17:00,19:20,0.0
+Tarik Patel,Office Shift,17:00:00,19:30:00,27 05 2022,2022-05-27,2022-05-27-Tarik Patel,16:55,19:20,5.0
+Laura Tobin,Office Shift,17:30:00,19:30:00,27 05 2022,2022-05-27,2022-05-27-Laura Tobin,17:30,19:00,0.0
+Emily Ngo,Guide 1,17:30:00,23:30:00,27 05 2022,2022-05-27,2022-05-27-Emily Ngo,17:15,23:20,15.0
+Luke Thomas,Guide 2,17:30:00,23:30:00,27 05 2022,2022-05-27,2022-05-27-Luke Thomas,17:30,23:40,0.0
+Sally Kittman,Guide 3,17:30:00,23:30:00,27 05 2022,2022-05-27,2022-05-27-Sally Kittman,17:30,23:40,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,28 05 2022,2022-05-28,2022-05-28-Tom Burden,16:00,19:45,0.0
+Luke Thomas,Office Shift,17:00:00,19:30:00,28 05 2022,2022-05-28,2022-05-28-Luke Thomas,16:55,19:45,5.0
+Annie Spayne,Guide 7,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Annie Spayne,17:20,18:30,10.0
+Peter Comerford,Guide 1,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Peter Comerford,17:25,23:15,5.0
+Ben Jonsen,Guide 2,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Ben Jonsen,17:25,23:30,5.0
+Tarik Patel,Guide 3,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Tarik Patel,17:20,23:30,10.0
+Sally Kittman ,Guide 4,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Sally Kittman ,17:30,23:30,0.0
+Andrew Brewer,Guide 5,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-Andrew Brewer,17:30,23:40,0.0
+David Chiswell,Guide 6,17:30:00,23:30:00,28 05 2022,2022-05-28,2022-05-28-David Chiswell,17:45,23:40,-15.0
+Helen Smith,Office Shift - M,17:00:00,19:30:00,29 05 2022,2022-05-29,2022-05-29-Helen Smith,16:50,19:00,10.0
+Michelle Turner,Office Shift,17:00:00,19:30:00,29 05 2022,2022-05-29,2022-05-29-Michelle Turner,17:00,19:00,0.0
+Sally Kittman,Guide 8,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Sally Kittman,17:30,19:00,0.0
+Annie Spayne,Guide 1,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Annie Spayne,17:30,23:05,0.0
+Emily Ngo,Guide 2,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Emily Ngo,17:30,23:30,0.0
+Ben Jonsen,Guide 3,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Ben Jonsen,17:25,23:30,5.0
+Peter Comerford,Guide 4,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Peter Comerford,17:25,23:30,5.0
+Laura Tobin,Guide 5,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Laura Tobin,17:30,23:30,0.0
+Nolan Pendergast,Guide 6,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Nolan Pendergast,17:30,23:30,0.0
+Andrew Brewer,Guide 7,17:30:00,23:30:00,29 05 2022,2022-05-29,2022-05-29-Andrew Brewer,17:30,23:30,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,30 05 2022,2022-05-30,2022-05-30-Alice Richards,16:00,19:05,0.0
+Emily Ngo,Office Shift,17:00:00,19:30:00,30 05 2022,2022-05-30,2022-05-30-Emily Ngo,17:00,19:05,0.0
+Andrew Brewer,Office Shift,17:30:00,19:30:00,30 05 2022,2022-05-30,2022-05-30-Andrew Brewer,17:30,18:45,0.0
+Michelle Turner,Guide 1,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-Michelle Turner,17:25,23:20,5.0
+Luke thomas,Guide 2,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-Luke thomas,17:25,23:20,5.0
+Laura Tobin,Guide 3,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-Laura Tobin,17:30,23:30,0.0
+David Chiswell,Guide 4,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-David Chiswell,17:30,23:30,0.0
+Sally Kittman,Guide 5,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-Sally Kittman,17:30,23:45,0.0
+Eric Winterbourne,Guide 6,17:30:00,23:30:00,30 05 2022,2022-05-30,2022-05-30-Eric Winterbourne,17:30,23:45,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,31 05 2022,2022-05-31,2022-05-31-Alice Richards,16:00,19:15,0.0
+Shaun Mclaughlin,Office Shift,17:00:00,19:30:00,31 05 2022,2022-05-31,2022-05-31-Shaun Mclaughlin,17:00,19:15,0.0
+David Chiswell,Office Shift,17:30:00,19:30:00,31 05 2022,2022-05-31,2022-05-31-David Chiswell,17:45,19:15,-15.0
+Luke Thomas,Guide 1,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Luke Thomas,17:15,23:25,15.0
+Tim Chang,Guide 2,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Tim Chang,17:25,23:00,5.0
+Laura Tobin,Guide 3,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Laura Tobin,17:25,23:10,5.0
+Ben Jonsen,Guide 4,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Ben Jonsen,17:25,23:15,5.0
+Peter Comerford,Guide 5,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Peter Comerford,17:30,23:35,0.0
+Andrew Brewer,Guide 6,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Andrew Brewer,17:30,23:40,0.0
+Nolan Pendergast,Guide 7,17:30:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Nolan Pendergast,17:30,23:45,0.0
+Tarik Patel,Office Shift - M,22:00:00,23:30:00,31 05 2022,2022-05-31,2022-05-31-Tarik Patel,22:00,23:45,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,01 06 2022,2022-06-01,2022-06-01-Tom Burden,15:55,19:10,5.0
+Emily Ngo,Office Shift,17:00:00,19:30:00,01 06 2022,2022-06-01,2022-06-01-Emily Ngo,16:55,18:45,5.0
+Sally Kittman,Office Shift,17:30:00,19:30:00,01 06 2022,2022-06-01,2022-06-01-Sally Kittman,17:15,19:10,15.0
+Sally Kittman,Office Shift,17:30:00,19:30:00,01 06 2022,2022-06-01,2022-06-01-Sally Kittman,17:15,23:10,15.0
+Annie Spayne,Guide 1,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Annie Spayne,17:15,23:45,15.0
+Sally Kittman,Guide 2,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Sally Kittman,17:15,19:10,15.0
+Sally Kittman,Guide 2,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Sally Kittman,17:15,23:10,15.0
+Shaun Mclaughlin,Guide 3,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Shaun Mclaughlin,17:15,23:10,15.0
+David Chiswell,Guide 4,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-David Chiswell,17:15,23:15,15.0
+Helen Smith,Guide 5,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Helen Smith,17:20,23:20,10.0
+Peter Comerford,Guide 6,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Peter Comerford,17:25,23:35,5.0
+Andrew Brewer,Guide 7,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Andrew Brewer,17:30,23:40,0.0
+Nolan Pendergast,Guide 8,17:30:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Nolan Pendergast,17:30,23:45,0.0
+Ben Jonsen,Office Shift - M,22:00:00,23:30:00,01 06 2022,2022-06-01,2022-06-01-Ben Jonsen,22:00,23:45,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,02 06 2022,2022-06-02,2022-06-02-Tom Burden,16:00,19:30,0.0
+Luke Thomas,Office Shift,17:00:00,19:30:00,02 06 2022,2022-06-02,2022-06-02-Luke Thomas,17:00,19:15,0.0
+Michelle Turner,Guide 9,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Michelle Turner,17:20,18:45,10.0
+Tim Chang,Guide 1,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Tim Chang,17:20,23:10,10.0
+Eric Winterbourne,Guide 2,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Eric Winterbourne,17:20,23:10,10.0
+Helen Smith,Guide 3,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Helen Smith,17:20,23:15,10.0
+Tarik Patel,Guide 4,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Tarik Patel,17:15,23:20,15.0
+Ben Jonsen,Guide 5,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Ben Jonsen,17:25,23:25,5.0
+Laura Tobin,Guide 6,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Laura Tobin,17:30,23:40,0.0
+David Chiswell,Guide 7,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-David Chiswell,17:30,23:35,0.0
+Andrew Brewer,Guide 8,17:30:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Andrew Brewer,17:30,23:50,0.0
+Peter Comerford,Office Shift - M,22:00:00,23:30:00,02 06 2022,2022-06-02,2022-06-02-Peter Comerford,22:00,23:50,0.0
+Eric Winterbourne,Office Shift - M,17:00:00,19:30:00,03 06 2022,2022-06-03,2022-06-03-Eric Winterbourne,17:00,19:15,0.0
+Tarik Patel,Office Shift,17:00:00,19:30:00,03 06 2022,2022-06-03,2022-06-03-Tarik Patel,17:00,19:15,0.0
+Andrew Brewer,Guide 9,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Andrew Brewer,17:30,19:15,0.0
+Shaun McLaughlin,Guide 1,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Shaun McLaughlin,17:25,23:15,5.0
+Luke Thomas,Guide 2,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Luke Thomas,17:25,23:20,5.0
+Michelle Turner,Guide 3,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Michelle Turner,17:30,23:25,0.0
+Emily Ngo,Guide 4,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Emily Ngo,17:30,23:30,0.0
+Peter Comerford,Guide 5,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Peter Comerford,17:30,23:30,0.0
+Ben Jonsen,Guide 6,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Ben Jonsen,17:30,23:35,0.0
+Sally Kittman,Guide 7,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Sally Kittman,17:30,23:45,0.0
+Laura Tobin,Guide 8,17:30:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Laura Tobin,17:30,23:50,0.0
+Helen Smith,Office Shift - M,22:00:00,23:30:00,03 06 2022,2022-06-03,2022-06-03-Helen Smith,22:00,23:50,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,04 06 2022,2022-06-04,2022-06-04-Alice Richards,16:00,19:12,0.0
+Eric Winterbourne,Office Shift,17:00:00,19:30:00,04 06 2022,2022-06-04,2022-06-04-Eric Winterbourne,16:55,19:12,5.0
+Peter Comerford,Office Shift,17:30:00,19:30:00,04 06 2022,2022-06-04,2022-06-04-Peter Comerford,17:20,19:00,10.0
+Emily Ngo,Guide 1,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Emily Ngo,17:20,23:00,10.0
+Michelle Turner,Guide 2,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Michelle Turner,17:25,23:05,5.0
+Annie Spayne,Guide 3,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Annie Spayne,17:25,23:15,5.0
+Luke Thomas,Guide 4,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Luke Thomas,17:30,23:20,0.0
+Tarik Patel,Guide 5,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Tarik Patel,17:30,23:30,0.0
+Laura Tobin,Guide 6,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Laura Tobin,17:45,23:30,-15.0
+Ben Jonsen,Guide 7,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Ben Jonsen,17:30,23:35,0.0
+David Chiswell,Guide 8,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-David Chiswell,17:30,23:45,0.0
+Nolan Pendergast,Guide 9,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Nolan Pendergast,17:30,23:45,0.0
+Helen Smith,Guide 10,17:30:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Helen Smith,17:30,23:50,0.0
+Sally Kittman,Office Shift - M,22:00:00,23:30:00,04 06 2022,2022-06-04,2022-06-04-Sally Kittman,22:00,23:50,0.0
+Shaun Mclaughlin,Office Shift - M,17:00:00,19:30:00,05 06 2022,2022-06-05,2022-06-05-Shaun Mclaughlin,17:00,19:30,0.0
+Ben Jonsen,Office Shift,17:00:00,19:30:00,05 06 2022,2022-06-05,2022-06-05-Ben Jonsen,16:55,19:20,5.0
+Tarik Patel,Office Shift,17:30:00,19:30:00,05 06 2022,2022-06-05,2022-06-05-Tarik Patel,17:30,19:00,0.0
+Emily Ngo,Guide 1,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Emily Ngo,17:15,23:00,15.0
+Michelle Turner,Guide 2,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Michelle Turner,17:25,23:10,5.0
+Eric Winterbourne,Guide 3,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Eric Winterbourne,17:25,23:20,5.0
+Annie Spayne,Guide 4,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Annie Spayne,17:30,23:15,0.0
+Luke Thomas,Guide 5,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Luke Thomas,17:30,23:25,0.0
+Peter Comerford,Guide 6,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Peter Comerford,17:30,23:30,0.0
+David Chiswell,Guide 7,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-David Chiswell,17:30,23:30,0.0
+Nolan Pendergast,Guide 8,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Nolan Pendergast,17:30,23:40,0.0
+Andrew Brewer,Guide 9,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Andrew Brewer,17:30,23:40,0.0
+Sally Kittman,Guide 10,17:30:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Sally Kittman,17:30,23:55,0.0
+Laura Tobin,Office Shift - M,22:00:00,23:30:00,05 06 2022,2022-06-05,2022-06-05-Laura Tobin,22:30,23:55,-30.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,06 06 2022,2022-06-06,2022-06-06-Tom Burden,15:50,19:30,10.0
+Peter Comerford,Office Shift,17:00:00,19:30:00,06 06 2022,2022-06-06,2022-06-06-Peter Comerford,16:55,19:30,5.0
+David Chiswell,Guide 10,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-David Chiswell,17:25,19:00,5.0
+Tim Chang,Guide 1,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Tim Chang,17:30,23:10,0.0
+Shaun Mclaughlin,Guide 2,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Shaun Mclaughlin,17:25,23:15,5.0
+Helen Smith,Guide 3,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Helen Smith,17:30,23:20,0.0
+Tarik Patel,Guide 4,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Tarik Patel,17:30,23:30,0.0
+Eric Winterbourne,Guide 5,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Eric Winterbourne,17:30,23:30,0.0
+Ben Johnsen,Guide 6,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Ben Johnsen,17:30,23:30,0.0
+Laura Tobin,Guide 7,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Laura Tobin,17:30,23:40,0.0
+Andrew Brewer,Guide 8,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Andrew Brewer,17:30,23:50,0.0
+Sally Kittman,Guide 9,17:30:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Sally Kittman,17:40,23:50,-10.0
+Nolan Pendergast,Office Shift - M,22:00:00,23:30:00,06 06 2022,2022-06-06,2022-06-06-Nolan Pendergast,22:00,23:50,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,07 06 2022,2022-06-07,2022-06-07-Tom Burden,16:00,19:20,0.0
+Michelle Turner,Office Shift,17:00:00,19:30:00,07 06 2022,2022-06-07,2022-06-07-Michelle Turner,16:55,18:50,5.0
+Emily Ngo,Guide 10,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Emily Ngo,17:15,19:20,15.0
+Tim Chang,Guide 1,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Tim Chang,17:30,23:20,0.0
+Tarik Patel,Guide 2,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Tarik Patel,17:30,23:10,0.0
+Luke Thomas,Guide 3,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Luke Thomas,17:40,23:15,-10.0
+Ben Johnsen,Guide 4,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Ben Johnsen,17:30,23:40,0.0
+Laura Tobin,Guide 5,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Laura Tobin,17:25,23:30,5.0
+Andrew Brewer,Guide 6,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Andrew Brewer,17:30,23:30,0.0
+Sally Kittman,Guide 7,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Sally Kittman,17:25,23:35,5.0
+David Chiswell,Guide 8,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-David Chiswell,17:30,23:50,0.0
+Nolan Pendergast,Guide 9,17:30:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Nolan Pendergast,17:30,23:50,0.0
+Shaun Mclaughlin,Office Shift - M,22:00:00,23:30:00,07 06 2022,2022-06-07,2022-06-07-Shaun Mclaughlin,22:00,23:50,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,08 06 2022,2022-06-08,2022-06-08-Alice Richards,16:00,19:35,0.0
+Eric Winterbourne,Office Shift,17:00:00,19:30:00,08 06 2022,2022-06-08,2022-06-08-Eric Winterbourne,17:00,19:00,0.0
+Sally Kittman,Guide 7,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Sally Kittman,17:15,19:35,15.0
+Emily Ngo,Guide 1,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Emily Ngo,17:20,23:00,10.0
+Michelle Turner,Guide 2,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Michelle Turner,17:25,23:10,5.0
+Annie Spayne,Guide 3,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Annie Spayne,17:30,23:10,0.0
+Peter Comerford,Guide 4,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Peter Comerford,17:30,23:10,0.0
+David Chiswell,Guide 5,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-David Chiswell,17:30,23:30,0.0
+Nolan Pendergast,Guide 6,17:30:00,23:30:00,08 06 2022,2022-06-08,2022-06-08-Nolan Pendergast,17:30,23:30,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,09 06 2022,2022-06-09,2022-06-09-Alice Richards,16:00,19:00,0.0
+Helen Smith,Office Shift,17:00:00,19:30:00,09 06 2022,2022-06-09,2022-06-09-Helen Smith,17:00,18:40,0.0
+Nolan Pendergast,Office Shift,17:30:00,19:30:00,09 06 2022,2022-06-09,2022-06-09-Nolan Pendergast,17:20,19:00,10.0
+Tim Chang,Guide 1,17:30:00,23:30:00,09 06 2022,2022-06-09,2022-06-09-Tim Chang,17:25,23:00,5.0
+Peter Comerford,Guide 2,17:30:00,23:30:00,09 06 2022,2022-06-09,2022-06-09-Peter Comerford,17:30,23:10,0.0
+Andrew Brewer,Guide 3,17:30:00,23:30:00,09 06 2022,2022-06-09,2022-06-09-Andrew Brewer,17:30,23:15,0.0
+Sally Kittman,Guide 4,17:30:00,23:30:00,09 06 2022,2022-06-09,2022-06-09-Sally Kittman,17:30,23:15,0.0
+Helen Smith,Office Shift - M,17:00:00,19:30:00,10 06 2022,2022-06-10,2022-06-10-Helen Smith,17:00,19:15,0.0
+Luke Thomas,Office Shift,17:00:00,19:30:00,10 06 2022,2022-06-10,2022-06-10-Luke Thomas,16:55,19:15,5.0
+Liliane Dubourblanc,Office Shift,17:30:00,19:30:00,10 06 2022,2022-06-10,2022-06-10-Liliane Dubourblanc,17:15,18:50,15.0
+Tarik Patel,Guide 1,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Tarik Patel,17:30,23:10,0.0
+Ben Johnsen,Guide 2,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Ben Johnsen,17:25,23:15,5.0
+Laura Tobin,Guide 3,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Laura Tobin,17:20,23:20,10.0
+Andrew Brewer,Guide 4,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Andrew Brewer,17:30,23:15,0.0
+Sally Kittman,Guide 5,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Sally Kittman,17:30,23:25,0.0
+Aline Robert,Guide 6,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Aline Robert,17:25,23:30,5.0
+Nicola Georgi,Guide 7,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Nicola Georgi,17:25,23:40,5.0
+Frances Seagrave,Guide 8,17:30:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Frances Seagrave,17:25,23:50,5.0
+Henry Cumberdale,Office Shift - M,22:00:00,23:30:00,10 06 2022,2022-06-10,2022-06-10-Henry Cumberdale,22:00,23:50,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,11 06 2022,2022-06-11,2022-06-11-Tom Burden,16:00,19:15,0.0
+Tim Chang,Office Shift,17:00:00,19:30:00,11 06 2022,2022-06-11,2022-06-11-Tim Chang,16:50,18:45,10.0
+Nicola Georgi,Guide 7,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Nicola Georgi,17:15,19:15,15.0
+Emily Ngo,Guide 1,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Emily Ngo,17:30,23:30,0.0
+Peter Comerford,Guide 2,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Peter Comerford,17:25,23:10,5.0
+David Chiswell,Guide 3,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-David Chiswell,17:30,23:15,0.0
+Nolan Pendergast,Guide 4,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Nolan Pendergast,17:25,23:45,5.0
+Henry Cumberdale,Guide 5,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Henry Cumberdale,17:30,23:45,0.0
+Lilliante Dubourblanc,Guide 6,17:30:00,23:30:00,11 06 2022,2022-06-11,2022-06-11-Lilliante Dubourblanc,17:30,23:45,0.0
+Tim Chang,Office Shift - M,17:00:00,19:30:00,12 06 2022,2022-06-12,2022-06-12-Tim Chang,17:00,19:30,0.0
+Andrew Brewer,Office Shift,17:00:00,19:30:00,12 06 2022,2022-06-12,2022-06-12-Andrew Brewer,17:15,19:30,-15.0
+Nolan Pendergast,Guide 11,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Nolan Pendergast,17:15,19:00,15.0
+Annie Spayne,Guide 1,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Annie Spayne,17:25,23:05,5.0
+Michelle Turner,Guide 2,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Michelle Turner,17:25,23:10,5.0
+Laura Tobin,Guide 3,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Laura Tobin,17:30,23:15,0.0
+Ben Jonsen,Guide 4,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Ben Jonsen,17:40,23:20,-10.0
+Peter Comerford,Guide 5,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Peter Comerford,17:30,23:30,0.0
+Henry Cumberdale,Guide 6,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Henry Cumberdale,17:30,23:30,0.0
+Lilliane Dubourblanc,Guide 7,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Lilliane Dubourblanc,17:30,23:40,0.0
+Aline Robert,Guide 8,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Aline Robert,17:30,23:40,0.0
+Nicola Georgi,Guide 9,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Nicola Georgi,17:30,23:45,0.0
+Frances Seagrave,Guide 10,17:30:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-Frances Seagrave,17:30,00:00,0.0
+David Chiswell,Office Shift - M,22:00:00,23:30:00,12 06 2022,2022-06-12,2022-06-12-David Chiswell,22:15,00:00,-15.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,13 06 2022,2022-06-13,2022-06-13-Alice Richards,16:00,19:35,0.0
+Peter Comerford,Office Shift,17:00:00,19:30:00,13 06 2022,2022-06-13,2022-06-13-Peter Comerford,16:55,19:35,5.0
+Henri Cumberdale,Guide 11,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Henri Cumberdale,17:45,19:35,-15.0
+Shaun Mclaughlin,Guide 1,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Shaun Mclaughlin,17:15,23:10,15.0
+Emily Ngo,Guide 2,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Emily Ngo,17:20,23:15,10.0
+Laura Tobin,Guide 3,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Laura Tobin,17:15,23:20,15.0
+Ben Jonsen,Guide 4,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Ben Jonsen,17:25,23:30,5.0
+Sally Kittman,Guide 5,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Sally Kittman,17:30,23:30,0.0
+Andrew Brewer,Guide 6,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Andrew Brewer,17:30,23:40,0.0
+Aline Robert,Guide 7,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Aline Robert,17:30,23:45,0.0
+Nicola Georgi,Guide 8,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Nicola Georgi,17:30,23:45,0.0
+Frances Seagrave,Guide 9,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Frances Seagrave,17:30,23:55,0.0
+Henry Cumberdale,Guide 10,17:30:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Henry Cumberdale,17:45,23:55,-15.0
+Liliane Dubourblanc,Office Shift - M,22:00:00,23:30:00,13 06 2022,2022-06-13,2022-06-13-Liliane Dubourblanc,,,
+Alice Richards,Office Shift - M,16:00:00,19:30:00,14 06 2022,2022-06-14,2022-06-14-Alice Richards,16:00,19:45,0.0
+Laura Tobin,Office Shift,17:00:00,19:30:00,14 06 2022,2022-06-14,2022-06-14-Laura Tobin,17:20,19:45,-20.0
+Frances Segrave,Guide 12,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Frances Segrave,18:00,19:45,-30.0
+Luke Thomas,Guide 1,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Luke Thomas,17:30,23:10,0.0
+Annie Spayne,Guide 2,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Annie Spayne,17:30,23:15,0.0
+Michelle Turner,Guide 3,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Michelle Turner,17:30,23:20,0.0
+Emily Ngo,Guide 4,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Emily Ngo,17:30,23:20,0.0
+Ben Jonsen,Guide 5,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Ben Jonsen,17:30,23:25,0.0
+Peter Comerford,Guide 6,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Peter Comerford,17:30,23:35,0.0
+Sally Kittman,Guide 7,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Sally Kittman,17:30,23:35,0.0
+Andrew Brewer,Guide 8,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Andrew Brewer,17:40,23:45,-10.0
+Henry Cumberdale,Guide 9,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Henry Cumberdale,17:25,23:50,5.0
+Lilliante Dubourblanc,Guide 10,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Lilliante Dubourblanc,17:40,00:05,-10.0
+Aline Robert,Guide 11,17:30:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Aline Robert,17:40,00:05,-10.0
+Nicola Georgi,Office Shift - M,22:00:00,23:30:00,14 06 2022,2022-06-14,2022-06-14-Nicola Georgi,22:00,00:05,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,15 06 2022,2022-06-15,2022-06-15-Tom Burden,16:00,19:30,0.0
+Luke Thomas,Office Shift,17:00:00,19:30:00,15 06 2022,2022-06-15,2022-06-15-Luke Thomas,17:00,19:30,0.0
+Aline Robert,Office Shift,17:30:00,19:30:00,15 06 2022,2022-06-15,2022-06-15-Aline Robert,17:20,18:45,10.0
+Annie Spayne,Guide 1,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Annie Spayne,17:25,22:55,5.0
+Tarik Patel,Guide 2,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Tarik Patel,17:20,23:00,10.0
+Helen Smith,Guide 3,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Helen Smith,17:25,23:15,5.0
+Peter Comerford,Guide 4,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Peter Comerford,17:30,23:20,0.0
+Laura Tobin,Guide 5,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Laura Tobin,17:30,23:25,0.0
+Nolan Pendergast,Guide 6,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Nolan Pendergast,17:30,23:40,0.0
+David Chiswell,Guide 7,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-David Chiswell,17:30,23:35,0.0
+Sally Kittman,Guide 8,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Sally Kittman,17:30,23:40,0.0
+Andrew Brewer,Guide 9,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Andrew Brewer,17:30,23:45,0.0
+Henry Cumberdale,Guide 10,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Henry Cumberdale,17:30,23:50,0.0
+Lilliante Dubourblanc,Guide 11,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Lilliante Dubourblanc,17:30,00:10,0.0
+Nicola Georgi,Guide 12,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Nicola Georgi,17:30,00:10,0.0
+Frances Seagrave,Guide 13,17:30:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Frances Seagrave,17:30,00:10,0.0
+Ben Jonsen,Office Shift - M,22:00:00,23:30:00,15 06 2022,2022-06-15,2022-06-15-Ben Jonsen,22:00,00:10,0.0
+Tom Burden,Office Shift - M,16:00:00,19:30:00,16 06 2022,2022-06-16,2022-06-16-Tom Burden,16:00,19:30,0.0
+Laura Tobin,Office Shift,17:00:00,19:30:00,16 06 2022,2022-06-16,2022-06-16-Laura Tobin,16:55,18:50,5.0
+Peter Comerford,Guide 14,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Peter Comerford,17:20,18:50,10.0
+Shaun Mclaughlin,Guide 1,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Shaun Mclaughlin,17:20,23:05,10.0
+Tim Chang,Guide 2,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Tim Chang,17:25,23:10,5.0
+Luke Thomas,Guide 3,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Luke Thomas,17:25,23:15,5.0
+Annie Spayne,Guide 4,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Annie Spayne,17:25,23:25,5.0
+Michelle Turner,Guide 5,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Michelle Turner,17:25,23:25,5.0
+Eric Winterbourne,Guide 6,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Eric Winterbourne,17:25,23:35,5.0
+Nolan Pendergast,Guide 7,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Nolan Pendergast,17:25,23:40,5.0
+David Chiswell,Guide 8,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-David Chiswell,17:25,23:40,5.0
+Aline Robert,Guide 9,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Aline Robert,17:25,23:50,5.0
+Henry Cumberdale,Guide 10,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Henry Cumberdale,17:25,23:50,5.0
+Lilliante Dubourblanc,Guide 11,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Lilliante Dubourblanc,17:30,00:15,0.0
+Nicola Georgi,Guide 12,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Nicola Georgi,17:30,00:15,0.0
+Frances Seagrave,Guide 13,17:30:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Frances Seagrave,17:30,00:15,0.0
+Sally Kittman,Office Shift - M,22:00:00,23:30:00,16 06 2022,2022-06-16,2022-06-16-Sally Kittman,22:00,00:15,0.0
+Shaun Mclaughlin,Office Shift - M,17:00:00,19:30:00,17 06 2022,2022-06-17,2022-06-17-Shaun Mclaughlin,16:55,19:55,5.0
+Helen Smith,Office Shift,17:00:00,19:30:00,17 06 2022,2022-06-17,2022-06-17-Helen Smith,16:55,19:55,5.0
+Liliane Dubourblanc,Office Shift,17:30:00,19:30:00,17 06 2022,2022-06-17,2022-06-17-Liliane Dubourblanc,,,
+Tim Chang,Guide 1,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Tim Chang,17:25,23:10,5.0
+Luke Thomas,Guide 2,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Luke Thomas,17:15,23:20,15.0
+Annie Spayne,Guide 3,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Annie Spayne,17:30,23:20,0.0
+Michelle Turner,Guide 4,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Michelle Turner,17:30,23:30,0.0
+Emily Ngo,Guide 5,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Emily Ngo,17:30,23:30,0.0
+Ben Jonsen,Guide 6,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Ben Jonsen,17:30,23:30,0.0
+Peter Comerford,Guide 7,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Peter Comerford,17:30,23:45,0.0
+Laura Tobin,Guide 8,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Laura Tobin,17:30,23:40,0.0
+Frances Seagrave,Guide 9,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Frances Seagrave,17:30,23:45,0.0
+Sally Kittman,Guide 10,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Sally Kittman,17:30,23:50,0.0
+Andrew Brewer,Guide 11,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Andrew Brewer,17:30,00:00,0.0
+Nolan Pendergast,Guide 12,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Nolan Pendergast,17:30,00:00,0.0
+David Chiswell,Guide 13,17:30:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-David Chiswell,17:30,00:00,0.0
+Henry Cumberdale,Office Shift - M,22:00:00,23:30:00,17 06 2022,2022-06-17,2022-06-17-Henry Cumberdale,22:00,00:00,0.0
+Alice Richards,Office Shift - M,16:00:00,19:30:00,18 06 2022,2022-06-18,2022-06-18-Alice Richards,15:50,19:40,10.0
+Shaun Mclaughlin,Office Shift,17:00:00,19:30:00,18 06 2022,2022-06-18,2022-06-18-Shaun Mclaughlin,17:00,19:00,0.0
+Nolan Pendergast,Guide 14,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Nolan Pendergast,17:30,19:40,0.0
+Helen Smith,Guide 1,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Helen Smith,17:15,23:05,15.0
+Tarik Patel,Guide 2,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Tarik Patel,17:20,23:10,10.0
+Luke Thomas,Guide 3,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Luke Thomas,17:25,23:15,5.0
+Emily Ngo,Guide 4,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Emily Ngo,17:25,23:15,5.0
+Michelle Turner,Guide 5,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Michelle Turner,17:30,23:30,0.0
+Eric Winterbourne,Guide 6,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Eric Winterbourne,17:30,23:25,0.0
+Ben Jonsen,Guide 7,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Ben Jonsen,17:30,23:30,0.0
+Peter Comerford,Guide 8,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Peter Comerford,17:30,23:40,0.0
+Laura Tobin,Guide 9,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Laura Tobin,17:30,23:40,0.0
+Henry Cumberdale,Guide 10,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Henry Cumberdale,17:25,23:50,5.0
+Lilliante Dubourblanc,Guide 11,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Lilliante Dubourblanc,17:30,23:45,0.0
+Sally Kittman,Guide 12,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Sally Kittman,17:35,00:05,-5.0
+Andrew Brewer,Guide 13,17:30:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-Andrew Brewer,17:50,00:05,-20.0
+David Chiswell,Office Shift - M,22:00:00,23:30:00,18 06 2022,2022-06-18,2022-06-18-David Chiswell,22:00,00:05,0.0
+Eric Winterbourne,Office Shift - M,17:00:00,19:30:00,19 06 2022,2022-06-19,2022-06-19-Eric Winterbourne,16:55,19:45,5.0
+Michelle Turner,Office Shift,17:00:00,19:30:00,19 06 2022,2022-06-19,2022-06-19-Michelle Turner,17:00,19:45,0.0
+Annie Spayne,Office Shift,17:30:00,19:30:00,19 06 2022,2022-06-19,2022-06-19-Annie Spayne,17:20,19:15,10.0
+Helen Smith,Guide 1,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Helen Smith,17:15,23:15,15.0
+Tarik Patel,Guide 2,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Tarik Patel,17:15,23:15,15.0
+Ben Jonsen,Guide 3,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Ben Jonsen,17:30,23:20,0.0
+Peter Comerford,Guide 4,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Peter Comerford,17:25,23:20,5.0
+Laura Tobin,Guide 5,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Laura Tobin,17:30,23:30,0.0
+Frances Seagrave,Guide 6,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Frances Seagrave,17:30,23:20,0.0
+Aline Robert,Guide 7,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Aline Robert,17:30,23:30,0.0
+Henry Cumberdale,Guide 8,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Henry Cumberdale,17:30,23:30,0.0
+Lilliante Dubourblanc,Guide 9,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Lilliante Dubourblanc,17:30,23:35,0.0
+Nolan Pendergast,Guide 10,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Nolan Pendergast,17:30,23:40,0.0
+David Chiswell,Guide 11,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-David Chiswell,17:30,00:00,0.0
+Sally Kittman,Guide 12,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Sally Kittman,17:30,23:45,0.0
+Andrew Brewer,Guide 13,17:30:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Andrew Brewer,17:30,00:00,0.0
+Nicola Georgi,Office Shift - M,22:00:00,23:30:00,19 06 2022,2022-06-19,2022-06-19-Nicola Georgi,23:00,00:00,-60.0
